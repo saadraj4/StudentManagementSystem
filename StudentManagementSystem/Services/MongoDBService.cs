@@ -6,7 +6,7 @@ public class MongoDBService
 {
     private readonly IMongoCollection<Student> _studentsCollection;
 
-    public MongoDBService(IOptions<MongoDBSettings> mongoDBSettings)
+    public MongoDBService(IOptions<MongoDBSetting> mongoDBSettings)
     {
         var mongoClient = new MongoClient(mongoDBSettings.Value.ConnectionString);
         var mongoDatabase = mongoClient.GetDatabase(mongoDBSettings.Value.DatabaseName);
