@@ -1,8 +1,9 @@
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.Configure<MongoDBSetting>(
-    builder.Configuration.GetSection("MongoDBSettings"));
+    builder.Configuration.GetSection("MongoDBSetting"));
 
 builder.Services.AddSingleton<MongoDBService>();
 

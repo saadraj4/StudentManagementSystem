@@ -1,0 +1,8 @@
+F:\Learn C#\StudentManagementSystem\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.csproj.AssemblyReference.cache
+F:\Learn C#\StudentManagementSystem\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Learn C#\StudentManagementSystem\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.AssemblyInfoInputs.cache
+F:\Learn C#\StudentManagementSystem\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.AssemblyInfo.cs
+F:\Learn C#\StudentManagementSystem\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.csproj.CoreCompileInputs.cache
+F:\Learn C#\StudentManagementSystem\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+F:\Learn C#\StudentManagementSystem\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+F:\Learn C#\StudentManagementSystem\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.sourcelink.json
